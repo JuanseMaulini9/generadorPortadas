@@ -1,4 +1,4 @@
-import { Input } from "./components/Input";
+import { Input } from "./components/Input/Input";
 import { Output } from "./components/Output";
 
 export default function Home() {
@@ -9,4 +9,6 @@ export default function Home() {
       <Output></Output>
     </div>
   );
+
+  
 }

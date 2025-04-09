@@ -1,0 +1,20 @@
+{
+  "es": {
+    "Generos": [
+      "Fantasía", "Ciencia ficción", "Terror", "Romance", "Drama",
+      "Comedia", "Misterio", "Aventura", "Thriller", "Histórico"
+    ],
+    "Publico": ["Infantil", "Juvenil", "Adulto", "Familiar"],
+    "Estilo": ["Minimalista", "Realista", "Ilustrado", "Cómic", "Abstracto"],
+    "Ambientación": ["Futurista", "Medieval", "Urbana", "Post-apocalíptica", "Espacial"]
+  },
+  "en": {
+    "Genres": [
+      "Fantasy", "Science Fiction", "Horror", "Romance", "Drama",
+      "Comedy", "Mystery", "Adventure", "Thriller", "Historical"
+    ],
+    "Target": ["Children", "Young Adult", "Adult", "Family"],
+    "Style": ["Minimalist", "Realistic", "Illustrated", "Comic", "Abstract"],
+    "Ambientation": ["Futuristic", "Medieval", "Urban", "Post-apocalyptic", "Space"]
+  }
+}
