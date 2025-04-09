@@ -1,20 +1,82 @@
 {
   "es": {
-    "Generos": [
-      "Fantasía", "Ciencia ficción", "Terror", "Romance", "Drama",
-      "Comedia", "Misterio", "Aventura", "Thriller", "Histórico"
-    ],
-    "Publico": ["Infantil", "Juvenil", "Adulto", "Familiar"],
-    "Estilo": ["Minimalista", "Realista", "Ilustrado", "Cómic", "Abstracto"],
-    "Ambientación": ["Futurista", "Medieval", "Urbana", "Post-apocalíptica", "Espacial"]
+    "categories": {
+      "genres": "Géneros",
+      "target": "Público",
+      "style": "Estilo",
+      "ambientation": "Ambientación"
+    },
+    "genres": {
+      "fantasy": "Fantasía",
+      "scienceFiction": "Ciencia ficción",
+      "horror": "Terror",
+      "romance": "Romance",
+      "drama": "Drama",
+      "comedy": "Comedia",
+      "mystery": "Misterio",
+      "adventure": "Aventura",
+      "thriller": "Thriller",
+      "historical": "Histórico"
+    },
+    "target": {
+      "children": "Infantil",
+      "youngAdult": "Juvenil",
+      "adult": "Adulto",
+      "family": "Familiar"
+    },
+    "style": {
+      "minimalist": "Minimalista",
+      "realistic": "Realista",
+      "illustrated": "Ilustrado",
+      "comic": "Cómic",
+      "abstract": "Abstracto"
+    },
+    "ambientation": {
+      "futuristic": "Futurista",
+      "medieval": "Medieval",
+      "urban": "Urbana",
+      "postApocalyptic": "Post-apocalíptica",
+      "space": "Espacial"
+    }
   },
   "en": {
-    "Genres": [
-      "Fantasy", "Science Fiction", "Horror", "Romance", "Drama",
-      "Comedy", "Mystery", "Adventure", "Thriller", "Historical"
-    ],
-    "Target": ["Children", "Young Adult", "Adult", "Family"],
-    "Style": ["Minimalist", "Realistic", "Illustrated", "Comic", "Abstract"],
-    "Ambientation": ["Futuristic", "Medieval", "Urban", "Post-apocalyptic", "Space"]
+    "categories": {
+      "genres": "Genres",
+      "target": "Target",
+      "style": "Style",
+      "ambientation": "Ambientation"
+    },
+    "genres": {
+      "fantasy": "Fantasy",
+      "scienceFiction": "Science Fiction",
+      "horror": "Horror",
+      "romance": "Romance",
+      "drama": "Drama",
+      "comedy": "Comedy",
+      "mystery": "Mystery",
+      "adventure": "Adventure",
+      "thriller": "Thriller",
+      "historical": "Historical"
+    },
+    "target": {
+      "children": "Children",
+      "youngAdult": "Young Adult",
+      "adult": "Adult",
+      "family": "Family"
+    },
+    "style": {
+      "minimalist": "Minimalist",
+      "realistic": "Realistic",
+      "illustrated": "Illustrated",
+      "comic": "Comic",
+      "abstract": "Abstract"
+    },
+    "ambientation": {
+      "futuristic": "Futuristic",
+      "medieval": "Medieval",
+      "urban": "Urban",
+      "postApocalyptic": "Post-apocalyptic",
+      "space": "Space"
+    }
   }
 }
